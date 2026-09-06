@@ -1,0 +1,477 @@
+Regla 5: si Gd ES LD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 6: si Gd ES LD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 7: si Gd ES LD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 8: si Gd ES LD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 9: si Gd ES LD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 10: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 11: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 12: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 13: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 14: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 15: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 16: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 17: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 18: si Gd ES LD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 19: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 20: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 21: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 22: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 23: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 24: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 25: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 26: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 27: si Gd ES LD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 28: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 29: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 30: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 31: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 32: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 33: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 34: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 35: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 36: si Gd ES LD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 37: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 38: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 39: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 40: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 41: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 42: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 43: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 44: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 45: si Gd ES LD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 46: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 47: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 48: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 49: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 50: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 51: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 52: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 53: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 54: si Gd ES LD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 55: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 56: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 57: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 58: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 59: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 60: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 61: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 62: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 63: si Gd ES LD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 64: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 65: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 66: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 67: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 68: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 69: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 70: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 71: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 72: si Gd ES LD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 73: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 74: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 75: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 76: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 77: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 78: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 79: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 80: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 81: si Gd ES LD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 82: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 83: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 84: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 85: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 86: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 87: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 88: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 89: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 90: si Gd ES MD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 91: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 92: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 93: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 94: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 95: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 96: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 97: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 98: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 99: si Gd ES MD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 100: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 101: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 102: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 103: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 104: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 105: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 106: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 107: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 108: si Gd ES MD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 109: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 110: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 111: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 112: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 113: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 114: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 115: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 116: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 117: si Gd ES MD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 118: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 119: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 120: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 121: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 122: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 123: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 124: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 125: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 126: si Gd ES MD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 127: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 128: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 129: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 130: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 131: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 132: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 133: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 134: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 135: si Gd ES MD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 136: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 137: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 138: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 139: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 140: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 141: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 142: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 143: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 144: si Gd ES MD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 145: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 146: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 147: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 148: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 149: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 150: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 151: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 152: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 153: si Gd ES MD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 154: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 155: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 156: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 157: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 158: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 159: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 160: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 161: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 162: si Gd ES MD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 163: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 164: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 165: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 166: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 167: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 168: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 169: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 170: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 171: si Gd ES HD y Gs ES LS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 172: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 173: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 174: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 175: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 176: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 177: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 178: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 179: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 180: si Gd ES HD y Gs ES LS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 181: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 182: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 183: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 184: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 185: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 186: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 187: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 188: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 189: si Gd ES HD y Gs ES LS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 190: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 191: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 192: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 193: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 194: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 195: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 196: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 197: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 198: si Gd ES HD y Gs ES MS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 199: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 200: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 201: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 202: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 203: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 204: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 205: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 206: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 207: si Gd ES HD y Gs ES MS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 208: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 209: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 210: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 211: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 212: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 213: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 214: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 215: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 216: si Gd ES HD y Gs ES MS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
+
+Regla 217: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES LI then Ra
+
+Regla 218: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES MI then Ra
+
+Regla 219: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES LR y Ig ES HI then Ra
+
+Regla 220: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES LI then Ra
+
+Regla 221: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES MI then Ra
+
+Regla 222: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES MR y Ig ES HI then Ra
+
+Regla 223: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES LI then Ra
+
+Regla 224: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES MI then Ra
+
+Regla 225: si Gd ES HD y Gs ES HS y Ga ES LA y Rm ES HR y Ig ES HI then Ra
+
+Regla 226: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES LI then Ra
+
+Regla 227: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES MI then Ra
+
+Regla 228: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES LR y Ig ES HI then Ra
+
+Regla 229: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES LI then Ra
+
+Regla 230: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES MI then Ra
+
+Regla 231: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES MR y Ig ES HI then Ra
+
+Regla 232: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES LI then Ra
+
+Regla 233: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES MI then Ra
+
+Regla 234: si Gd ES HD y Gs ES HS y Ga ES MA y Rm ES HR y Ig ES HI then Ra
+
+Regla 235: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES LI then Ra
+
+Regla 236: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES MI then Ra
+
+Regla 237: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES LR y Ig ES HI then Ra
+
+Regla 238: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES LI then Ra
+
+Regla 239: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES MI then Ra
+
+Regla 240: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES MR y Ig ES HI then Ra
+
+Regla 241: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES LI then Ra
+
+Regla 242: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES MI then Ra
+
+Regla 243: si Gd ES HD y Gs ES HS y Ga ES HA y Rm ES HR y Ig ES HI then Ra
